@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="cross_scope_test Table" max_length="40" name="x_320117_cross_sco_cross_scope_test_table" type="collection">
+        <element choice="1" display="true" label="Name" max_length="40" name="active" type="string">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
