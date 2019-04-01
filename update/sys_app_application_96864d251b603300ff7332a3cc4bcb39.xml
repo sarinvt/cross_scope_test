@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>cross_scope_test</name>
+        <order/>
+        <roles>x_320117_cross_sco.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-01 08:17:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96864d251b603300ff7332a3cc4bcb39</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cross_scope_test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cross_scope_test" source="x_320117_cross_sco">1686c9251b603300ff7332a3cc4bcb34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cross_scope_test">1686c9251b603300ff7332a3cc4bcb34</sys_scope>
+        <sys_update_name>sys_app_application_96864d251b603300ff7332a3cc4bcb39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-01 08:17:46</sys_updated_on>
+        <title>cross_scope_test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
